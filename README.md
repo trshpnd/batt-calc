@@ -10,4 +10,4 @@ python3 batt-calc.py
 ```
 
 3. Selecione o arquivo .csv desejado e aguarde a finalização do processo.
-O resultado do cálculo será mostrado no console.
+O resultado do cálculo será mostrado no terminal.
